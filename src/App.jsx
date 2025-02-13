@@ -8,11 +8,10 @@ function App() {
 
   return (
     <>
-        <h1>DISCUSSION PORT</h1>
-    <p>welcome to our discussion page</p>
+       <h1>WELCOME TO OUR DISCUSSION PORT</h1>
+        <p>this page has been created by simon </p>
+        <h2>THIS PAGE IS DEDICATED FOR HANDLING ALL WEALTHY DISCUSSION </h2>
 
-        <h2>Im simon by the way</h2>
-        <p>atleast am flowing well</p>
 
         <h3>This page is still under construction</h3>
     </>
