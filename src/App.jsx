@@ -11,6 +11,8 @@ function App() {
         <h1>DISCUSSION PORT</h1>
     <p>welcome to our discussion page</p>
 
+        <h2>Im simon by the way</h2>
+
         <h3>This page is still under construction</h3>
     </>
   )
